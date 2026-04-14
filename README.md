@@ -1,4 +1,4 @@
-# Auto Todo Photo Opener
+# Auto file/image Opener
 
 A small Node.js CLI that opens a saved file or image path with your system default application.
 
