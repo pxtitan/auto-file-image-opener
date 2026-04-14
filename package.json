@@ -1,0 +1,19 @@
+{
+  "name": "auto-todo-photo-opener",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "open-to-do.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node open-to-do.js"
+  },
+  "bin": {
+    "opentodo": "./open-to-do.js"
+  },
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
